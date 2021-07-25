@@ -1,0 +1,17 @@
+{
+  "name": "webrtc",
+  "version": "1.0.0",
+  "description": "First webrtc app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webrtc"
+  ],
+  "author": "Sebastian Zuviria",
+  "license": "MIT",
+  "dependencies": {
+    "wscat": "4.0.1"
+  }
+}

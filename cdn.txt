@@ -1,0 +1,6 @@
+In head section
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+
+In body section
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
